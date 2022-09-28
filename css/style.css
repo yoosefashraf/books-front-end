@@ -44,7 +44,7 @@ body {
   left: 0;
 }
 .over-lay::after {
-  background-image: url(../Image/bg-image.PNG);
+  background-image: url(../image/bg-image.PNG);
   z-index: -1;
 }
 .over-lay::before {
